@@ -1,0 +1,30 @@
+{
+  "scores":[
+   {
+     "user_id": 1,
+     "score": 5
+     "username": Esteban
+   },
+   {
+     "user_id": 2,
+     "score": 3
+     "username": Laura
+   },
+   {
+     "user_id": 3,
+     "score": 12
+     "username": Maria
+   },
+   {
+     "user_id": 4,
+     "score": 8
+     "username": Juliana
+   },
+   {
+     "user_id": 5,
+     "score": 6
+     "username": Santiago
+   },
+  ],
+
+}
